@@ -1,0 +1,45 @@
+# Spring Boot
+/target/
+/bin/
+/build/
+/.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# IDE-specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+*.iws
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled bytecode
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Eclipse-specific
+.settings/
+
+# Intellij-specific
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code-specific
+.vscode/
+
+# Gradle
+.gradle/
+build/
